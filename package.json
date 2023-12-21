@@ -1,0 +1,17 @@
+{
+  "name": "momos-or-backend",
+  "version": "1.0.0",
+  "description": "A backend in momos aur code channel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "momos",
+    "backend",
+    "or",
+    "javascript"
+  ],
+  "author": "ANANYA SHARMA",
+  "license": "ISC"
+}
